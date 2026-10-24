@@ -1,0 +1,6 @@
+{
+  "name": "Cherryflow",
+  "description": "Manage. Automate. Grow. A production-oriented business management SaaS application for small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
